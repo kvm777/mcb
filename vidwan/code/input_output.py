@@ -9,6 +9,7 @@
 x = float(input("Enter the 1st value: "))
 y = float(input("Enter the 2nd value: "))
 
+
 # Perform arithmetic operations
 sum_result = x + y
 print(f"Sum of {x} and {y}: {sum_result}")  # Addition
