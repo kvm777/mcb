@@ -27,7 +27,7 @@ for i in range(10):
 
 
 
-arr = [5, 7, 15, 9, 13, 14]
+# arr = [5, 7, 15, 9, 13, 14]
 # for i in range(len(arr)):
 #     print(arr[i])
 
@@ -36,8 +36,8 @@ arr = [5, 7, 15, 9, 13, 14]
 
 
 # finding sqrs of eles in arr
-for ele in arr:
-    print(ele**2)
+# for ele in arr:
+#     print(ele**2)
 
 
 """
@@ -52,14 +52,9 @@ arr = [5, 7, 15, 9, 13, 14]
 
 """
 
-s = "mahesh"
+# s = "mahesh"
 
-"""
-MahEsH
+# for ele in s:
+#     print(ele.upper())
 
-mAHeSh
 
-"""
-
-for ele in s:
-    print(ele.upper())
